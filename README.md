@@ -6,7 +6,7 @@
 目前来讲，我的工作环境是在Windows台式机，我的个人电脑是Mac笔记本。虽然我在两个环境下都是用hhkb。但是两种操作系统还是有许多快捷键不一样。这对我的记忆带来了负担，使得做事效率略有降低。所以我希望通过个性化的设置，使得对于同样的操作，在Windows和Mac OS下是一样的键盘动作。
 
 ###不涉及Linux：
-下面涉及到的快捷键也都是指的可视化界面的快捷键，而不是Command Line快捷键。因为Linux主要是在纯命令行环境，绝大多数操作习惯和Mac下是一样的。Windows下的命令行环境区别比较大，Windows上对命令行的使用场景也不是很多。另外想说用Cygwin遇到很多无解的坑，所以还是不用Cygwin了。
+下面涉及到的快捷键也都是指的可视化界面的快捷键，而不是[Command Line快捷键](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/readline.md)。因为Linux主要是在纯命令行环境，绝大多数操作习惯和Mac下是一样的。Windows下的命令行环境区别比较大，Windows上对命令行的使用场景也不是很多。另外想说用Cygwin遇到很多无解的坑，所以还是不用Cygwin了。
 
 
 ###strategy：
