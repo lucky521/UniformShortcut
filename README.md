@@ -1,5 +1,5 @@
 # UniformShortcut
-让Windows和Mac下的快捷键统一起来
+让Windows和Mac下的各种快捷键统一起来。减轻记忆负担，更畅快地在跨平台环境中工作。
 
 
 ###Purpose：
@@ -16,9 +16,9 @@
 - 不带来副作用。
 
 
-###键盘映射：
-- Mac系统设置里Keyboard-Shortcuts-App Shortcuts直接提供了键盘快捷键修改的设置。此外推荐工具Karabiner。
-- Windows系统不能直接修改快捷键设定。推荐工具autohotkey，可以hook键盘快捷键映射到想要的快捷键。
+###键盘映射工具：
+- Mac系统设置里Keyboard-Shortcuts-App Shortcuts直接提供了键盘快捷键修改的设置。此外推荐工具`Karabiner`。
+- Windows系统不能直接修改快捷键设定。推荐工具`Autohotkey`，可以hook键盘快捷键映射到想要的快捷键。
 
 
 
@@ -46,7 +46,7 @@ Cmd + q
 复制、剪切、粘贴、全选、撤销、重做、保存、搜索、加粗，使用Ctrl配系。
 
 
-###Helper Tools
+### 增强工具 Helper Tools
 
 - 快速搜索和跳转：
 Mac下使用Alfred；Windows下使用Launchy。快捷键都设为alt+space。
