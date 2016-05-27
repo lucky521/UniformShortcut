@@ -17,8 +17,8 @@
 
 
 ###键盘映射工具：
-- Mac系统设置里Keyboard-Shortcuts-App Shortcuts直接提供了键盘快捷键修改的设置。此外推荐工具`Karabiner`。
-- Windows系统不能直接修改快捷键设定。推荐工具`Autohotkey`，可以hook键盘快捷键映射到想要的快捷键。
+- Mac系统设置里Keyboard-Shortcuts-App Shortcuts直接提供了键盘快捷键修改的设置。此外推荐工具`Karabiner`。Mac系统设置可以直接修改修饰键的定义，根据HHKB的使用习惯，我习惯将CapsLock键直接变为Ctrl键，不再设置CapsLock键。
+- Windows系统不能直接修改快捷键和修饰键设定。推荐工具`Autohotkey`，可以hook键盘快捷键映射到想要的快捷键。
 
 
 
