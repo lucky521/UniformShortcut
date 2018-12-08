@@ -8,6 +8,7 @@
 ### 不涉及Linux
 
 下面涉及到的快捷键也都是指的可视化界面的快捷键，而不是[Command Line快捷键](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/readline.md)。因为Linux主要是在纯命令行环境，绝大多数操作习惯和Mac下是一样的。Windows下的命令行环境区别比较大，Windows上对命令行的使用场景也不是很多。另外想说用Cygwin遇到很多无解的坑，所以还是不用Cygwin了。
+Mac下的常见快捷键有 [](https://github.com/lucky521/LuckyToolNotes/blob/master/shortcut/mac-shortcut.md)
 
 
 ### strategy
