@@ -14,7 +14,8 @@ Mac下的常见快捷键有 [Mac Shortcut](https://github.com/lucky521/LuckyTool
 - 尽可能让WindowsOS的Win键和MacOS的Cmd键使用习惯保持一致。
 - 对于不一致的快捷键，谁应该迁就谁，取决于个人历史习惯和哪一方的用法更好用。
 - 配置方法尽可能的简单，容易迁移。
-- 不带来副作用。
+- Ctrl键设置在左右小拇指最舒服的位置（也就是Caps键的位置）
+- 对系统不带来副作用。
 
 
 ## Shortcuts
