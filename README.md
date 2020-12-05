@@ -21,7 +21,7 @@ Mac下的常见快捷键有 [Mac Shortcut](https://github.com/lucky521/LuckyTool
 
 ### 键盘映射工具
 - Mac系统设置里Keyboard->Shortcuts->App Shortcuts直接提供了键盘快捷键修改的设置。此外推荐工具`Karabiner`。Mac系统设置可以直接修改修饰键的定义，根据HHKB的使用习惯，我习惯将CapsLock键直接变为Ctrl键，不再设置CapsLock键。
-- Windows系统不能直接修改快捷键和修饰键设定。推荐工具`Autohotkey`，可以hook键盘快捷键映射到想要的快捷键。
+- Windows系统不能直接修改快捷键和修饰键设定。可以修改注册表里的键盘定义。推荐使用PowerToys(微软开发的开源工具)，或者使用工具`Autohotkey`，可以hook键盘快捷键映射到想要的快捷键。 
 
 
 ## Shortcuts
@@ -52,11 +52,11 @@ Cmd + q
 ### 增强工具 Helper Tools
 
 - 快速搜索和跳转：
-Mac下使用Alfred；Windows下使用Launchy。快捷键都设为alt+space。
+Mac下使用Alfred；Windows下使用PowerToys或Launchy。触发快捷键都设为alt+space。
 
 - 窗口切换：
 Windows下使用Switchy来增强窗口切换功能，快捷键设为Cmd+Tab和Cmd+`。
-或者Lwin & Tab::AltTab
+Window10之后，窗口切换上和MacOS基本一致了，可直接使用Lwin & Tab::AltTab
 
 - 鼠标滚动方向：
 如果用鼠标的话，在Mac下使用 Reverse Scrolling 可以使滑轮滚动方向和Win一致。
