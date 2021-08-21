@@ -15,12 +15,13 @@ Mac下的常见快捷键有 [Mac Shortcut](https://github.com/lucky521/LuckyTool
 - 对于不一致的快捷键，谁应该迁就谁，取决于个人历史习惯和哪一方的用法更好用。
 - 配置方法尽可能的简单，容易迁移。
 - Ctrl键设置在左右小拇指最舒服的位置（也就是Caps键的位置）
+- 普通键盘和Mac键盘的alt键和Cmd键的物理位置是对调的，软件层面将其映射一致。
 - 对系统不带来副作用。
 
 
 ## Shortcuts
 
-下面提到Cmd键在Windows下就是Win键，对于大多数键盘来说这两个是同一个键。
+下面提到Cmd键在Windows下就是Win键，在Mac下就是Cmd键，对于大多数键盘来说这两个是同一个键。
 
 - 输入法切换：
 Cmd + space
@@ -30,6 +31,9 @@ Alt + space
 	
 - 窗口切换：
 Cmd + Tab
+
+- 摊开所有窗口供切换
+Alt + Tab
 
 - 窗口布局：
 Cmd + 上下左右
@@ -53,13 +57,12 @@ Cmd + q
 
 
 ### 增强工具 Helper Tools
-
 - 快速搜索和跳转：
-Mac下使用Alfred；Windows下使用PowerToys或Launchy。触发快捷键都设为alt+space。
+Mac下使用Alfred；Windows下使用PowerToys或Launchy。触发快捷键都设为alt + space。
 
 - 窗口切换：
 Windows下使用Switchy来增强窗口切换功能，快捷键设为Cmd+Tab和Cmd+`。
-Window10之后，窗口切换上和MacOS基本一致了，可直接使用Lwin & Tab::AltTab
+Window10之后，窗口切换上和MacOS基本一致了，可直接使用Lwin + Tab 和 Alt + Tab
 
 - 鼠标滚动方向：
 如果用鼠标的话，在Mac下使用 Reverse Scrolling 可以使滑轮滚动方向和Win一致。
